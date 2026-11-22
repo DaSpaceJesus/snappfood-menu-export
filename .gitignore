@@ -1,0 +1,5 @@
+# This folder holds other projects and private notes: publish only the menu export script.
+/*
+!/.gitignore
+!/extract_menu.py
+!/README.md
